@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/USER2/Desktop/text/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\gbemu.dir\\src\\main.cpp.obj -c C:\\Users\\USER2\\Desktop\\text\\gbemu\\src\\main.cpp",
+  "file": "C:/Users/USER2/Desktop/text/gbemu/src/main.cpp",
+  "output": "C:/Users/USER2/Desktop/text/build/CMakeFiles/gbemu.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER2/Desktop/text/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\gbemu.dir\\src\\memory.cpp.obj -c C:\\Users\\USER2\\Desktop\\text\\gbemu\\src\\memory.cpp",
+  "file": "C:/Users/USER2/Desktop/text/gbemu/src/memory.cpp",
+  "output": "C:/Users/USER2/Desktop/text/build/CMakeFiles/gbemu.dir/src/memory.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER2/Desktop/text/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\gbemu.dir\\src\\cpu.cpp.obj -c C:\\Users\\USER2\\Desktop\\text\\gbemu\\src\\cpu.cpp",
+  "file": "C:/Users/USER2/Desktop/text/gbemu/src/cpu.cpp",
+  "output": "C:/Users/USER2/Desktop/text/build/CMakeFiles/gbemu.dir/src/cpu.cpp.obj"
+},
+{
+  "directory": "C:/Users/USER2/Desktop/text/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\gbemu.dir\\src\\ppu.cpp.obj -c C:\\Users\\USER2\\Desktop\\text\\gbemu\\src\\ppu.cpp",
+  "file": "C:/Users/USER2/Desktop/text/gbemu/src/ppu.cpp",
+  "output": "C:/Users/USER2/Desktop/text/build/CMakeFiles/gbemu.dir/src/ppu.cpp.obj"
+}
+]

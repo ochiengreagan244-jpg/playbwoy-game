@@ -1,0 +1,3 @@
+C:/Users/USER2/Desktop/text/build/CMakeFiles/gbemu.dir
+C:/Users/USER2/Desktop/text/build/CMakeFiles/edit_cache.dir
+C:/Users/USER2/Desktop/text/build/CMakeFiles/rebuild_cache.dir
